@@ -1,1 +1,1 @@
-https://github.com/serikpaj777/test_python.git
+https://github.com/serikpaj777/test_git.git
